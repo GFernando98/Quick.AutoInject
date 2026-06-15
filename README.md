@@ -1,1 +1,1 @@
-# QuickInject
+# Quick.AutoInject
