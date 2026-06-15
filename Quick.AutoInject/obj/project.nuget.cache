@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTnkWMQgm4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omar.hernandez\\Documents\\GitHub\\Quick.AutoInject\\Quick.AutoInject\\Quick.AutoInject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omar.hernandez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.17\\microsoft.extensions.dependencyinjection.abstractions.9.0.17.nupkg.sha512",
+    "C:\\Users\\omar.hernandez\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\omar.hernandez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\omar.hernandez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
