@@ -1,4 +1,4 @@
-﻿name: Publish Quick.AutoInject to NuGet
+name: Publish Quick.AutoInject to NuGet
 
 on:
   push:
