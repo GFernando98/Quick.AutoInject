@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quick.AutoInject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199ab9f4b189d0c27cd8da507d24665e585cb1d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc429d52ce86df01a12b7a4e475c49fc4e14c960")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quick.AutoInject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quick.AutoInject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
